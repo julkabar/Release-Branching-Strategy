@@ -1,9 +1,7 @@
-# \# Release-Branching-Strategy
-
+# Release-Branching-Strategy
 Surname: Baryba
 
 ## Versions
-===
-
-# \- In development: main
+- v1.0.x (stable)
+- v2.0 (in progress)
 
