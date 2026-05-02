@@ -2,6 +2,9 @@
 Surname: Baryba
 
 ## Versions
-- v1.0.x (stable)
-- v2.0 (in progress)
+- v2.0.1 (bugfix)
+- v1.0.x (supported)
+
+### Changes in 2.0.1
+- Fixed bug in app.txt
 
